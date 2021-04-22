@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8be0df1-8ff3-4871-814d-84a1170a90e7" name="Default Changelist" comment="" />
+    <list default="true" id="e8be0df1-8ff3-4871-814d-84a1170a90e7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +17,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1rU536gLzL1IGIRQCKjSBLBAfs2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -25,19 +32,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/test" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/test" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/binary-trees" />
-      <recent name="$PROJECT_DIR$/binary-trees/model" />
-      <recent name="$PROJECT_DIR$/binary-trees/tests" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/binary-trees" />
       <recent name="$PROJECT_DIR$/binary-trees/algorithm" />
       <recent name="$PROJECT_DIR$/binary-trees/data" />
       <recent name="$PROJECT_DIR$/binary-trees/asd" />
       <recent name="$PROJECT_DIR$/binary-trees/alg" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/binary-trees" />
+      <recent name="$PROJECT_DIR$/binary-trees/model" />
+      <recent name="$PROJECT_DIR$/binary-trees/tests" />
     </key>
   </component>
   <component name="RunManager" selected="Python.test_BreadthFirst">
@@ -99,8 +106,8 @@
     </configuration>
     <list>
       <item itemvalue="Python.test" />
-      <item itemvalue="Python tests.Unittests for test.algorithm.test_BreadthFirst.Test" />
       <item itemvalue="Python.test_BreadthFirst" />
+      <item itemvalue="Python tests.Unittests for test.algorithm.test_BreadthFirst.Test" />
     </list>
     <recent_temporary>
       <list>
