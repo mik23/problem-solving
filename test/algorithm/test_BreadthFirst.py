@@ -2,7 +2,6 @@ from unittest import TestCase
 
 from binarytrees.data.Tree import Tree
 from binarytrees.algorithm.BreadthFirst import breadthFirst
-
 # 1
 # 2      3
 # 4 5   6 7
@@ -24,4 +23,3 @@ class Test(TestCase):
         result = list()
         breadthFirst(tree, result)
         self.assertEqual(result, [1, 2, 3, 4, 5, 6, 7])
-
