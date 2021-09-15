@@ -6,7 +6,7 @@ def preOrderTraversing(T: Tree, result=None):
         return
 
     if T.data is not None:
-        print(T.data)
+        # print(T.data)
         result.append(T.data)
 
     preOrderTraversing(T.left, result)
@@ -19,7 +19,7 @@ def inOrderTraversing(T: Tree, result=None):
 
     inOrderTraversing(T.left, result)
     if T.data is not None:
-        print(T.data)
+        # print(T.data)
         result.append(T.data)
 
     inOrderTraversing(T.right, result)
@@ -32,5 +32,5 @@ def postOrderTraversing(T: Tree, result=None):
     postOrderTraversing(T.left, result)
     postOrderTraversing(T.right, result)
     if T.data is not None:
-        print(T.data)
+        # print(T.data)
         result.append(T.data)
